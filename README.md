@@ -44,7 +44,7 @@ end tell
 替换以下路径下的文件即可。
 ![](./img/20201020-195240.png)
 
-若嫌麻烦，可以直接使用笔者已经打包好的 app。
+若嫌麻烦，可以直接使用笔者已经打包好的 [App](https://github.com/JiandanDream/OpenVSCodeInFinder/releases)
 
 ### 3. 安装
 
